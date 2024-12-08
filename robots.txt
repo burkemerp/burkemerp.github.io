@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /
+
+# Note:
+# This will block all search engines from accessing any pages on your site.
+# Ensure you truly intend to prevent all crawling before using this configuration.
