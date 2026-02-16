@@ -1,8 +1,38 @@
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+@font-face {
+    font-family: "Palatino Linotype";
+    panose-1: 2 4 5 2 5 5 5 3 3 4;
+    src: url(fonts/Palatino-Linotype.ttf)
+    }
+@font-face {
+    font-family: "Palatino Linotype";
+    panose-1: 2 4 7 2 6 3 5 10 2 4;
+    src: url(fonts/Palatino-Linotype-Bold.ttf);
+    font-weight: bold
+    }
+@font-face {
+    font-family: "Palatino Linotype";
+    panose-1: 2 4 5 2 5 3 5 10 3 4;
+    src: url(fonts/Palatino-Linotype-Italic.ttf);
+    font-style: italic
+    }
+@font-face {
+    font-family: "Palatino Linotype";
+    panose-1: 2 4 7 2 6 3 5 10 2 4;
+    src: url(fonts/Palatino-Linotype-Bold-Italic.ttf);
+    font-weight: bold;
+    font-style: italic
+    }
+
 .calibre {
     line-height: 1.2
     }
 .calibre1 {
     display: block;
+    font-family: "Palatino Linotype", serif;
     font-size: 1em;
     line-height: 1.2;
     margin-bottom: 0;
@@ -57,6 +87,7 @@
     }
 .class {
     display: block;
+    font-family: "Palatino Linotype", serif;
     font-size: 1em;
     line-height: 1.2;
     margin-bottom: 0;
@@ -518,6 +549,7 @@
     }
 .class1 {
     display: block;
+    font-family: "Palatino Linotype", serif;
     font-size: 1em;
     line-height: 1.2;
     margin-bottom: 0;
@@ -534,6 +566,7 @@
 .class3 {
     color: #3344db;
     display: block;
+    font-family: "Palatino Linotype", serif;
     font-size: 1em;
     line-height: 1.2;
     margin-bottom: 0;
@@ -546,6 +579,7 @@
     }
 .class4 {
     display: block;
+    font-family: "Palatino Linotype", serif;
     font-size: 1em;
     font-style: italic;
     line-height: 1.2;
@@ -559,6 +593,7 @@
     }
 .class5 {
     display: block;
+    font-family: "Palatino Linotype", serif;
     font-size: 1em;
     line-height: 1.2;
     margin-bottom: 0;
@@ -813,10 +848,5 @@
     margin-left: 0;
     margin-right: 0;
     margin-top: 0
-    }
-
-@page {
-    margin-bottom: 5pt;
-    margin-top: 5pt
     }
 
