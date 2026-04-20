@@ -1,0 +1,512 @@
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+@font-face {
+    font-family: "Shift Light";
+    font-style: normal;
+    font-weight: normal;
+    src: url(OEBPS/fonts/Shift-Light.otf)
+    }
+@font-face {
+    font-family: "Shift Light";
+    font-style: italic;
+    font-weight: bold;
+    src: url(OEBPS/fonts/Shift-BoldItalic.otf)
+    }
+
+.calibre {
+    display: block;
+    font-size: 1em;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    padding-left: 0;
+    padding-right: 0
+    }
+.calibre1 {
+    font-style: italic
+    }
+.calibre2 {
+    display: block;
+    float: none;
+    margin-bottom: 10px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 10px;
+    text-align: center
+    }
+.calibre3 {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.calibre4 {
+    font-weight: bold
+    }
+.calibre5 {
+    display: block
+    }
+.calibre6 {
+    display: block;
+    font-size: 0.75em;
+    margin-bottom: 1.5em;
+    margin-left: 1.5em;
+    margin-right: 1.5em;
+    margin-top: 1.5em;
+    text-align: center
+    }
+.calibre7 {
+    line-height: 1.2
+    }
+.calibre8 {
+    font-weight: bold;
+    line-height: 1.2
+    }
+.calibre9 {
+    height: auto;
+    width: 100%
+    }
+.calibre10 {
+    color: #222;
+    display: block;
+    font-family: "Shift Light", Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+    font-size: 1.125em;
+    font-style: italic;
+    font-weight: bold;
+    line-height: inherit;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: center;
+    text-indent: 0
+    }
+.calibre11 {
+    display: block;
+    font-family: "Shift Light", Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center;
+    text-indent: 0
+    }
+.calibre12 {
+    -webkit-text-fill-color: rgb(255, 102, 0);
+    color: rgb(255, 102, 0);
+    text-decoration: underline
+    }
+.calibre13 {
+    display: block;
+    float: none;
+    line-height: inherit;
+    margin-bottom: 10px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 10px;
+    outline: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-align: center;
+    text-indent: 0
+    }
+.calibre14 {
+    display: block;
+    font-size: 1.5em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.67em
+    }
+.calibre15 {
+    display: block;
+    list-style-type: decimal;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.calibre16 {
+    display: list-item
+    }
+.calibre17 {
+    display: block;
+    list-style-type: decimal;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0
+    }
+.center {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.2em;
+    text-align: center
+    }
+.center-space {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center
+    }
+.center1 {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: center;
+    text-indent: 0
+    }
+.center2 {
+    display: block;
+    line-height: inherit;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    outline: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-align: center;
+    text-indent: 0
+    }
+.chapter {
+    border-bottom-color: currentColor;
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+    border-top-color: currentColor;
+    border-top-style: solid;
+    border-top-width: 2px;
+    display: block;
+    font-size: 1.25em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 10%;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 15%;
+    padding-bottom: 0.2em;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0.2em;
+    text-align: right
+    }
+.chapter1 {
+    border-top-color: currentColor;
+    border-top-style: solid;
+    border-top-width: 2px;
+    display: block;
+    font-size: 1.5em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0.25em;
+    text-align: right
+    }
+.copy {
+    display: block;
+    font-size: 0.75em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: center
+    }
+.copy1 {
+    display: block;
+    font-size: 0.75em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center
+    }
+.epigraph {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 1em;
+    margin-right: 0;
+    margin-top: 0;
+    text-indent: -1em
+    }
+.h {
+    clear: both;
+    display: block;
+    height: 100%;
+    max-width: 100%;
+    text-align: center
+    }
+.h1 {
+    height: 100%;
+    max-width: 100%;
+    width: auto
+    }
+.h2em {
+    height: 2em;
+    width: auto
+    }
+.hanging {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 1.2em;
+    margin-right: 0;
+    margin-top: 0.4em;
+    text-indent: -1em
+    }
+.hanging1 {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 1.2em;
+    margin-right: 0;
+    margin-top: 0;
+    text-indent: 0
+    }
+.hanging2 {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 2.5em;
+    margin-right: 0;
+    margin-top: 0.4em;
+    text-indent: -2.5em
+    }
+.hanging2-first {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 1.2em;
+    margin-right: 0;
+    margin-top: 1em;
+    text-indent: -1em
+    }
+.hanging3 {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 2.5em;
+    margin-right: 0;
+    margin-top: 0;
+    text-indent: 0
+    }
+.hanging4 {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 1.2em;
+    margin-right: 0;
+    margin-top: 0.5em;
+    text-indent: 0
+    }
+.hanging4-space {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 2.5em;
+    margin-right: 0;
+    margin-top: 1em;
+    text-indent: 0
+    }
+.image_ {
+    display: block;
+    line-height: inherit;
+    margin-bottom: 1em;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 1em;
+    outline: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-align: center;
+    text-indent: 0
+    }
+.indent {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-indent: 1.2em
+    }
+.nonindent {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-indent: 0
+    }
+.nonindent1 {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-indent: 0
+    }
+.nonindent1-rule {
+    border-top-color: currentColor;
+    border-top-style: solid;
+    border-top-width: 2px;
+    display: block;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0.75em;
+    text-indent: 0
+    }
+.padding_top {
+    display: block;
+    margin-top: 15%
+    }
+.right {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: right
+    }
+.right1 {
+    border-bottom-color: currentColor;
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+    display: block;
+    margin-bottom: 3em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0.5em;
+    text-align: right
+    }
+.right2 {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 5%;
+    margin-top: 0;
+    text-align: right
+    }
+.right3 {
+    display: block;
+    font-size: 1.125em;
+    line-height: 1.2;
+    margin-bottom: 0.5em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 2em;
+    text-align: right
+    }
+.right3-space {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 5%;
+    margin-top: 0.5em;
+    text-align: right
+    }
+.smallcaps {
+    font-size: 0.75em
+    }
+.smallcaps1 {
+    font-size: 0.77778em;
+    line-height: 1.2
+    }
+.toc_ch {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 1em;
+    margin-right: 0;
+    margin-top: 0.2em;
+    text-indent: 0
+    }
+.toc_fm {
+    display: block;
+    margin-bottom: 0.2em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.2em;
+    text-indent: 0
+    }
+.x-small {
+    border-top-color: rgb(99, 99, 99);
+    border-top-style: solid;
+    border-top-width: 1px;
+    display: block;
+    font-family: "Shift Light", Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+    font-size: 0.875em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 1.18em;
+    text-align: center;
+    text-indent: 0
+    }
+.x07-list-unnumbered-last {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 1.5em;
+    margin-right: 0;
+    margin-top: 1em;
+    text-indent: -0.5em
+    }
+.x07-list-unnumbered-space {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 1.5em;
+    margin-right: 0;
+    margin-top: 1em;
+    text-indent: -0.5em
+    }
+.pcalibre:link {
+    -webkit-text-fill-color: rgb(255, 102, 0);
+    color: rgb(255, 102, 0);
+    text-decoration: underline
+    }
+.pcalibre1:visited {
+    -webkit-text-fill-color: rgb(255, 102, 0);
+    color: rgb(255, 102, 0);
+    text-decoration: underline
+    }
+.pcalibre2:hover {
+    -webkit-text-fill-color: rgb(255, 102, 0);
+    color: rgb(255, 102, 0);
+    text-decoration: underline
+    }
+.pcalibre3:active {
+    -webkit-text-fill-color: rgb(255, 102, 0);
+    color: rgb(255, 102, 0);
+    text-decoration: underline
+    }
+

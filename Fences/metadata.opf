@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">d6f674bc-3505-422d-ad47-81b8c87aa09a</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d6f674bc-3505-422d-ad47-81b8c87aa09a</dc:identifier>
+        <dc:title>Fences</dc:title>
+        <dc:creator opf:file-as="Wilson, August" opf:role="aut">August Wilson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.15.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-08-06T00:00:00+00:00</dc:date>
+        <dc:description>&lt;b&gt;From legendary playwright August Wilson comes the powerful, stunning dramatic bestseller that won him critical acclaim, including the Tony Award for Best Play and the Pulitzer Prize.&lt;/b&gt;&lt;br&gt;Troy Maxson is a strong man, a hard man. He has had to be to survive. Troy Maxson has gone through life in an America where to be proud and black is to face pressures that could crush a man, body and soul. But the 1950s are yielding to the new spirit of liberation in the 1960s, a spirit that is changing the world Troy Maxson has learned to deal with the only way he can, a spirit that is making him a stranger, angry and afraid, in a world he never knew and to a wife and son he understands less and less. This is a modern classic, a book that deals with the impossibly difficult themes of race in America, set during the Civil Rights Movement of the 1950s and 60s. &lt;br&gt;&lt;b&gt;Now an Academy Award-winning film directed by and starring &lt;b&gt;&lt;b&gt;Denzel Washington&lt;/b&gt;&lt;/b&gt;, along with Academy Award and Golden...</dc:description>
+        <dc:publisher>Penguin Publishing Group</dc:publisher>
+        <dc:language>en</dc:language>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
