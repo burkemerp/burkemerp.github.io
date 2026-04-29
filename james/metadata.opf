@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4085a804-147f-48b6-becf-a337e900f199</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4085a804-147f-48b6-becf-a337e900f199</dc:identifier>
+        <dc:title>James: A Novel</dc:title>
+        <dc:creator opf:file-as="Everett, Percival" opf:role="aut">Percival Everett;</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.15.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-03-19T00:00:00+00:00</dc:date>
+        <dc:publisher>Penguin Random House LLC</dc:publisher>
+        <dc:language>en</dc:language>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
